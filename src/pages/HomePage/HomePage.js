@@ -1,6 +1,6 @@
 import React from "react";
-import Profile from "./Profile";
-import Information from "./Information";
+import Profile from "../../components/Profile";
+import Information from "../../components/Information";
 import "./HomePage.css";
 const HomePage = () => {
   return (

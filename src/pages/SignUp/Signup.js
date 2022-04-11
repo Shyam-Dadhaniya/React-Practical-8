@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import TextField from "../../components/TextField";
 import { useFormik } from "formik";
-import validationSchema from "../../Utils/Validate";
+import validationSchema from "../../utils/validation";
 import { useDispatch } from "react-redux";
 import { userAction } from "../../store/user-slice";
 // import { useHistory } from "react-router-dom";
