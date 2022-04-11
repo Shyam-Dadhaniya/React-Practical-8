@@ -1,6 +1,6 @@
 export const message = {
   FILE_REQUIRED: "File is required",
-  FILE_SIZE: "Image size must be less than 200kb",
+  FILE_SIZE: "Image size must be less than 2MB",
   FILE_TYPE: "Image size should be jpg or png only",
   NAME_REQUIRED: "Name is required",
   NAME_ALPHABATE: "Pleae enter alphabate only",
